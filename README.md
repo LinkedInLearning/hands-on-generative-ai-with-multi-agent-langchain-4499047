@@ -1,7 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
-
-![course-name-alt-text][lil-thumbnail-url] 
+# Hands-On Generative AI with Multi-Agent LangChain: Building Real-World Applications
+This is the repository for the LinkedIn Learning course `Hands-On Generative AI with Multi-Agent LangChain: Building Real-World Applications`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
