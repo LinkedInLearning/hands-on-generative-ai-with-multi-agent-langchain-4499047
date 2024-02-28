@@ -1,6 +1,10 @@
 # Hands-On Generative AI with Multi-Agent LangChain: Building Real-World Applications
 This is the repository for the LinkedIn Learning course `Hands-On Generative AI with Multi-Agent LangChain: Building Real-World Applications`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![lil-thumbnail-url]
+
+As a developer in today’s rapidly evolving and constantly surprising AI landscape, it’s become critical to know how to leverage multiagent simulations and generative models. This course is designed to meet the burgeoning demand for AI professionals skilled in these domains. Join instructor Nayan Saxena for a comprehensive exploration of the process of building and running dynamic and interactive multiagent simulations using LangChain, the popular AI-powered framework. Get the skills you need to start building your first generative agents, equipping them with tools, and modeling complex generative agent scenarios. Along the way, test out your new technical know-how in the exercise challenges at the end of each section.
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -20,15 +24,18 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+### Instructor
 
+Nayan Saxena
+
+Deep Learning Expert
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/nayan-saxena).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/hands-on-generative-ai-with-multi-agent-langchain-building-real-world-applications
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHSXBy92JaVXA/learning-public-crop_675_1200/0/1708729222446?e=2147483647&v=beta&t=mkauYhfr8LXzvo4B_ecX4hr6fP8cynnXkaDTlQMgulM
 
